@@ -1,0 +1,1 @@
+GAN trained on th celeba dataset to generate new images of human faces. More detailed explaination in the notebooks.
